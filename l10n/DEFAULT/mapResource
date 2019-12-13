@@ -1,0 +1,5 @@
+mapResource = 
+{
+    ["ResKey_ImageBriefing_50"] = "476vfg_flat_1808x1783.png",
+    ["ResKey_ImageBriefing_51"] = "476vfg_flat_1808x1783.png",
+} -- end of mapResource
